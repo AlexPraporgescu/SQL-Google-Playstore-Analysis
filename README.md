@@ -33,7 +33,7 @@ These datasets were obtained from Kaggle.com.
   ## <ins>Tools</ins>
 
  - MySQL - Data cleaning, preparation and exploratory data analysis (EDA) [Download here](https://dev.mysql.com/downloads/).
- - Power BI - Visualisation and creating the [Dashboard](#project-overview) [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+ - Power BI - Visualisation and creating the [Dashboard](https://github.com/AlexPraporgescu/Power-BI-Projects?tab=readme-ov-file#google-playstore-analysis) [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
 
   ## <ins>Data Preparation and Cleaning</ins>
 
@@ -333,7 +333,7 @@ The visualisation of the key aspects of the dataset was done by using the follow
  - Tables.
  - Slicers (for creating the interactive dashboard).
 
-The dashboard that I created can be seen [here](++++++++++)
+The dashboard that I created can be seen [here](https://github.com/AlexPraporgescu/Power-BI-Projects?tab=readme-ov-file#google-playstore-analysis).
 
   ## <ins>Results and Findings</ins>
 
